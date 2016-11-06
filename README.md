@@ -1,6 +1,5 @@
 # AdvancedWidget
-Advanced Widget
-![Image of Yaktocat](https://vegaszvarri.github.com/SSAW11.png)
+Advanced Widget(https://github.com/VegasZvarri/AdvancedWidget/blob/master/SSAW11.png)
 Nama:Vegas Zuba'ir
 Kelas:XIIRPL3
 No:35
