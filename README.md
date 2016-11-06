@@ -1,5 +1,6 @@
 # AdvancedWidget
 Advanced Widget
+![Image of SS1](https://vegas.github.com/images/SSAW11.png)
 Nama:Vegas Zuba'ir
 Kelas:XIIRPL3
 No:35
